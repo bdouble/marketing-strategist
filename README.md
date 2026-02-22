@@ -125,6 +125,12 @@ Optimized templates and guidelines for:
 - Email (awareness-matched sequences)
 - TikTok (short-form video scripts)
 
+## Inspiration
+
+This plugin was inspired by [Jessie van Breugel](https://www.linkedin.com/in/jessievanbreugel/)'s "The AI Marketing Boardroom" -- a mega prompt that combines the frameworks of Hormozi, GaryVee, Brunson, Kennedy, Schwartz, Godin, and Deiss into a single Claude prompt. Jessie shared it in a [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7431310550128713729/).
+
+This plugin takes that concept and rebuilds it as a proper Claude Code skill with progressive disclosure, structured reference files, platform playbooks, content formulas, worked examples, and auto-detected modes -- so the frameworks load on demand rather than consuming your entire context window at once.
+
 ## Version
 
 - **Version:** 1.0.0
