@@ -35,7 +35,7 @@ How the seven expert frameworks connect and reinforce each other. Use these mapp
 
 | GaryVee Concept | Hormozi Equivalent | Brunson Equivalent | Godin Equivalent |
 |-----------------|-------------------|-------------------|------------------|
-| Content Pyramid | Repurposing system (1 -> 30+) | Hook, Story, Offer (per piece) | Smallest viable audience (who to reach) |
+| GaryVee Content Model | Repurposing system (1 -> 30+) | Hook, Story, Offer (per piece) | Smallest viable audience (who to reach) |
 | Jab, Jab, Right Hook | Give value before asking | Attractive Character (build connection) | Permission Marketing (earn the right) |
 | Document Don't Create | "How I" vs "How to" | Parables (teach through story) | Purple Cow (be remarkable through authenticity) |
 | TikTokification | 70-20-10 Hook Rule (test volume) | New Opportunity (fresh content) | Sneezers (spread through novelty) |
@@ -71,5 +71,5 @@ How the seven expert frameworks connect and reinforce each other. Use these mapp
 | Repositioning in crowded market | Godin (Purple Cow) | Schwartz (sophistication stage) | Need to break through noise differently |
 | High-ticket consulting offer | Kennedy (direct response) | Hormozi (Value Equation) | Need persuasion + value justification |
 | Email nurture sequence | Brunson (Soap Opera) | Schwartz (awareness progression) | Need story arc matched to awareness growth |
-| Content repurposing system | GaryVee (Content Pyramid) | Hormozi (Hook, Retain, Reward) | Need distribution system + quality hooks |
+| Content repurposing system | GaryVee (Content Model) | Hormozi (Hook, Retain, Reward) | Need distribution system + quality hooks |
 | Customer retention/ascension | Deiss (CVJ stages 5-8) | Brunson (Value Ladder) | Need systematic ascension + delight |

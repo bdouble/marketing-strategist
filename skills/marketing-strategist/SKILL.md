@@ -1,20 +1,27 @@
 ---
 name: marketing-strategist
 description: >
-  This skill should be used when the user asks to "write a marketing post",
-  "create content for LinkedIn", "create content for Twitter",
-  "create content for Instagram", "design an offer", "build a funnel",
-  "write a hook", "create a lead magnet", "review my copy",
-  "marketing strategy", "content calendar", "launch plan",
-  "write ad copy", "email sequence", "value stack", "offer pricing",
+  Marketing content engine combining proven frameworks from Hormozi, GaryVee,
+  Brunson, Kennedy, Schwartz, Godin, and Deiss. Produces ready-to-post content,
+  complete offer stacks, funnel architectures, campaign plans, and copy reviews.
+  Use when user asks to "write a marketing post", "create content for LinkedIn",
+  "design an offer", "build a funnel", "review my copy", "marketing strategy",
+  "write ad copy", "email sequence", "value stack", "launch plan", "write a hook",
+  "create a lead magnet", "go-to-market", "sales page copy", "content ideas",
   "write a thread", "carousel post", "reel script", "YouTube title",
-  "go-to-market", "sales page copy", "webinar outline",
-  "landing page copy", "sales email", "content ideas",
-  "help me with my marketing", or needs marketing content that converts.
-  Do NOT use for product requirements, code reviews, project management,
-  or non-marketing writing tasks. Combines frameworks from Hormozi,
-  GaryVee, Brunson, Kennedy, Schwartz, Godin, and Deiss for
-  ready-to-use marketing output.
+  "content calendar", "offer pricing", "webinar outline", "landing page copy",
+  "sales email", "help me with my marketing", or needs marketing content that
+  converts. Do NOT use for product requirements, code reviews, project management,
+  or non-marketing writing tasks.
+license: MIT
+compatibility: >
+  Works with Claude.ai, Claude Code, and API. No external tools or MCP servers
+  required. Standalone skill using Claude's built-in capabilities.
+metadata:
+  author: Brian Benitez
+  version: 1.0.0
+  category: marketing
+  tags: [marketing, copywriting, funnels, offers, content-strategy, direct-response]
 ---
 
 # Marketing Strategist
@@ -225,3 +232,8 @@ For full platform playbooks, consult `references/platform-playbooks.md`.
 | Offer not compelling | Value Equation imbalanced | Score each of the 4 variables; optimize weakest |
 | Content too long | Wrong platform format | Check platform playbook for length constraints |
 | Voice sounds off | Framework mismatch with voice | Route to the expert whose voice matches the platform |
+| Multiple modes seem to match | User request spans modes (e.g., "write a sales page for my new offer") | Apply priority order from Mode Detection table; the highest-priority matching mode wins. Mention other relevant modes at the end of output |
+| Unsupported platform requested | User asks for Facebook, Pinterest, SMS, or other uncovered platform | Apply the closest platform playbook principles (format, length, hook style) and note that the output is adapted from similar platform patterns |
+| No audience context provided | User doesn't specify awareness level or target audience | Ask before generating. Default to Problem Aware if user says "just write it" -- the safest middle ground |
+| Framework recommendations conflict | Two experts suggest opposing approaches for the same task | Defer to the primary expert in the routing table. Note the tension and offer the alternative as a variation |
+| Output exceeds platform limits | Generated content is too long for the specified platform | Check platform quick reference for length constraints before generating. Trim by removing the weakest supporting point, never the hook or CTA |

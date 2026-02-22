@@ -72,9 +72,9 @@ Best bonus types (lowest effort = highest perceived value): checklists, template
 | Type | Mechanism | Best Use |
 |------|-----------|----------|
 | Unconditional Money-Back | Full refund, no questions | Low-ticket B2C |
-| Conditional Service | Keep working free until result | High-ticket services |
+| Conditional | Refund only if buyer completes specific actions without result | High-ticket programs |
 | Anti-Guarantee | "All sales final" upfront | Premium customization |
-| Stacked Guarantees | Layer multiple (satisfaction + performance) | Enterprise/complex |
+| Performance-Based | Guarantee specific measurable outcomes or continue working free | High-ticket services |
 
 Make the guarantee specific to the buyer's primary fear. Name it creatively. Tie conditions to actions the buyer must take -- screens for committed buyers and reduces refund rates.
 
@@ -148,7 +148,7 @@ Example: "5 Proven Ways Fitness Studio Owners Add $10K/Month in 30 Days"
 10. Clear CTA (one action, stated simply)
 11. 3rd grade reading level (short sentences, small words, big promises)
 12. Be funny (pattern interrupt, memorability)
-13. P.S. lines in email (second most-read element after headline)
+13. P.S. lines in email and sales letters (the second most-read element after the headline -- use them to restate the core promise or add urgency)
 
 ## The Rule of 100
 

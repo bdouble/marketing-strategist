@@ -2,6 +2,17 @@
 
 Platform-specific execution guides with format, tone, hooks, CTAs, and anti-patterns.
 
+## Quick Reference
+
+| Platform | Primary Voice | Format | Section |
+|----------|--------------|--------|---------|
+| Twitter/X | Hormozi | Threads, standalone tweets | [below](#twitterx) |
+| LinkedIn | Brunson | Story -> framework -> soft CTA | [below](#linkedin) |
+| Instagram | GaryVee | Carousels, Reels, Stories, feed posts | [below](#instagram) |
+| YouTube | Kennedy | Long-form video (8-15 min) | [below](#youtube) |
+| Email | Schwartz | Awareness-matched sequences | [below](#email) |
+| TikTok | GaryVee + Hormozi | Short-form video (15-60s) | [below](#tiktok) |
+
 ## Twitter/X
 
 **Primary voice:** Hormozi

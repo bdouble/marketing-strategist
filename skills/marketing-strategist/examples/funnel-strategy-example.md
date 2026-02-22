@@ -22,7 +22,7 @@ User says: "Build a funnel for my coaching business that takes people from not k
 | FEEL | Overwhelmed, imposter syndrome, unsure of pricing | Confident, in-demand, charging premium rates |
 | AVERAGE DAY | Scrambling for clients, undercharging, no pipeline | Booked calendar, waitlisted clients, referral flow |
 | STATUS | "Life coach" (generic, commoditized) | Recognized specialist in their niche |
-| EVIL | Fear of failure, fear of being exposed, fear of charging too much | Validated by results, confident in value delivered |
+| GOOD vs. EVIL | Fear of failure, fear of being exposed, fear of charging too much | Validated by results, confident in value delivered |
 
 ### Funnel Architecture
 

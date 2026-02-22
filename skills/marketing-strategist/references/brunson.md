@@ -46,7 +46,7 @@ Customers ascend a ladder of increasing value and price. The mistake: offering o
 | Rung | Offer Type | Purpose | Price Point |
 |------|-----------|---------|-------------|
 | 0 | Lead Magnet | Attract dream customers, exchange for contact info | Free |
-| 1 | Tripwire | Convert prospect to buyer, break purchase barrier | $7-$47 |
+| 1 | Frontend Offer | Convert prospect to buyer, break purchase barrier (also called "tripwire," a term from Deiss) | $7-$47 |
 | 2 | Core Offer | Primary product -- the main business | $97-$997 |
 | 3 | Profit Maximizer | Upsells, order bumps, premium versions | $500-$5,000 |
 | 4 | High-Ticket / Continuity | Coaching, masterminds, recurring | $5,000-$100,000+ |

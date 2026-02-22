@@ -100,13 +100,13 @@ Market research is not optional -- it is the entire job. Finding out what people
 
 | Technique | Description |
 |-----------|-------------|
-| Intensification | Amplify desire using emotionally charged language |
-| Identification | Align product with consumer's self-image or aspirations |
-| Gradualization | Build argument step by step, each making the next logical |
-| Redefinition | Present product in a new light that differentiates from competitors |
-| Mechanization | Explain how the product works -- satisfies the rational mind |
-| Concentration | Focus the entire message on one single compelling idea |
-| Camouflage | Present as informative content (advertorial, editorial, educational) |
+| Intensification | Amplify desire using emotionally charged language, sensory detail, and vivid imagery |
+| Identification | Align product with consumer's self-image, aspirations, or group identity |
+| Gradualization | Build argument step by step, each claim making the next one logical and inevitable |
+| Redefinition | Reframe the prospect's objections, redefine what the product means so resistance dissolves |
+| Mechanization | Explain how the product works -- the mechanism satisfies the rational mind and builds credibility |
+| Concentration | Destroy alternate ways the prospect might satisfy their desire -- disqualify competition and prove only your product delivers what they want |
+| Camouflage | Borrow conviction from external credibility -- present the ad as editorial, expert analysis, or educational content so sales resistance is never activated |
 
 ## Voice Profile
 
@@ -118,3 +118,5 @@ Market research is not optional -- it is the entire job. Finding out what people
 - "The desire already exists..." philosophy
 - Never creates demand; channels existing demand
 - Clinical precision in language
+- Deep psychological insight into buyer motivation
+- "The copy writer's first job is not to write copy. It is to know the market." philosophy

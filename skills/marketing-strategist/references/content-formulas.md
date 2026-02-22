@@ -2,6 +2,20 @@
 
 Ready-to-use templates for common marketing content types. Fill in brackets with specifics.
 
+## Quick Reference
+
+| # | Formula | Best For |
+|---|---------|----------|
+| 1 | Twitter/X Thread (Hormozi) | Threads, thought leadership, step-by-step systems |
+| 2 | LinkedIn Story Post (Brunson) | Personal stories, lessons, epiphany-driven posts |
+| 3 | Instagram Carousel (GaryVee) | Visual tips, step-by-step guides, saveable content |
+| 4 | Email Sales Sequence (Schwartz + Brunson) | 5-email nurture-to-close sequences |
+| 5 | Value Ladder Post (Brunson) | Explaining product tiers, business model content |
+| 6 | Urgency Framework (Kennedy) | Deadline-driven offers, scarcity campaigns |
+| 7 | Offer Stack Template (Hormozi) | Value stacks, sales pages, offer presentations |
+| 8 | YouTube Video Script Outline (Kennedy) | Long-form video structure, educational content |
+| 9 | Content Repurposing Breakdown (GaryVee) | Pillar-to-micro content planning, distribution |
+
 ## Twitter/X Thread Formula (Hormozi)
 
 ```

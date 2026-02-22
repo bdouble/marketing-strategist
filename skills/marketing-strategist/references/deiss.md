@@ -52,7 +52,7 @@ Used in Step 1 of CVO to clarify exactly how your offer transforms customers.
 | FEEL | How do they feel right now? | How will they feel? |
 | AVERAGE DAY | What does a typical day look like? | How does their day change? |
 | STATUS | How do others perceive them? | How will others perceive them? |
-| EVIL | What are they afraid of / what pains them? | What fear/pain is removed? |
+| GOOD vs. EVIL | What do they fear most? What is their worst-case scenario? | What is their best-case outcome? What fear is eliminated? |
 
 Complete the grid for all customer avatars. The After state describes your promise, offer positioning, and copy angles. The Before state provides empathy-building and problem agitation for copy.
 

@@ -1,6 +1,6 @@
 # Gary Vaynerchuk Frameworks
 
-## Content Pyramid (6-Step Repurposing)
+## GaryVee Content Model (Pillar-to-Micro Repurposing)
 
 Turn one pillar piece into 30+ platform-specific micro-content.
 
@@ -118,6 +118,12 @@ Implications:
 2. Monitor which organic posts perform
 3. Promote the winners with paid spend
 4. Use proven organic success as signal for higher-production commercial content
+
+### Post-Creative Strategy
+After creating and posting content, actively engage with every comment. Comments are a second piece of content -- each reply is a chance to add value, build relationship, and increase algorithmic reach. Treat comment sections as their own content channel.
+
+### Modern Commercials
+Create 4-6 second "commercials" for social media -- ultra-short branded content designed for the attention spans of feed-based platforms. These are not traditional ads but entertaining, native-feeling micro-content with brand integration.
 
 ## Volume vs. Quality
 

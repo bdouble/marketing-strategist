@@ -29,13 +29,27 @@ The skill automatically detects what you need from your request:
 
 ## Installation
 
-### Claude Code
+### Claude Code (recommended)
 
-Copy the plugin directory to your Claude Code plugins location, or use the `--plugin-dir` flag:
+Install via the plugin marketplace. First, add the marketplace:
+
+```shell
+/plugin marketplace add bdouble/marketing-strategist
+```
+
+Then install the plugin:
+
+```shell
+/plugin install marketing-strategist@bdouble-marketing
+```
+
+Or do it in one step from the command line:
 
 ```bash
-claude --plugin-dir /path/to/marketing-strategist
+claude plugin marketplace add bdouble/marketing-strategist && claude plugin install marketing-strategist@bdouble-marketing
 ```
+
+You can also browse available plugins interactively by running `/plugin` and going to the **Discover** tab.
 
 ### Claude.ai
 
@@ -54,6 +68,10 @@ claude --plugin-dir /path/to/marketing-strategist
 "Create a Twitter thread about productivity hacks"
 "Design a lead magnet for SaaS founders"
 ```
+
+## Compatibility
+
+Works with Claude.ai, Claude Code, and the Anthropic API. No external tools or MCP servers required -- this is a standalone skill that uses Claude's built-in capabilities.
 
 ## Plugin Structure
 
@@ -90,11 +108,12 @@ Every output follows this principle: 80% ready-to-use content, 20% strategic con
 
 Every piece of content produced by this skill:
 - Hooks in the first sentence or first 3 seconds
-- Includes specific numbers, metrics, or data points
-- Tells a micro-story or references a case study
-- Provides immediate actionable value
-- Ends with a clear CTA
-- Uses platform-specific formatting
+- Includes at least one specific number, metric, or data point
+- Tells a micro-story, case study, or concrete example
+- Provides immediate actionable value (not just theory)
+- Includes a curiosity gap or open loop
+- Ends with a clear, single CTA
+- Uses platform-specific formatting when a platform is specified
 
 ## Platform Support
 
@@ -105,6 +124,13 @@ Optimized templates and guidelines for:
 - YouTube (long-form video scripts)
 - Email (awareness-matched sequences)
 - TikTok (short-form video scripts)
+
+## Version
+
+- **Version:** 1.0.0
+- **Author:** Brian Benitez
+- **Category:** Marketing
+- **Tags:** marketing, copywriting, funnels, offers, content-strategy, direct-response
 
 ## License
 

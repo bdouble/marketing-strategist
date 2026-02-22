@@ -65,7 +65,7 @@ Core principle: the seller must assume all risk, not the buyer.
 
 ## Reason-Why Advertising
 
-Every claim must be substantiated with a reason. The "because" is not optional.
+Originally pioneered by John E. Kennedy (1904), who defined advertising as "salesmanship in print." Dan Kennedy champions this approach as a cornerstone of modern direct response: every claim must be substantiated with a reason. The "because" is not optional.
 
 - Use long-form "reason-why" copy for high-ticket offers and skeptical markets
 - Specificity is credibility: "Lose 11.4 pounds in 17 days" outperforms "Lose weight fast"
@@ -75,6 +75,8 @@ Every claim must be substantiated with a reason. The "because" is not optional.
 - Show the cost of not buying (hidden costs of the cheaper alternative)
 
 ## Five Value Propositions
+
+*Note: This framework synthesizes Kennedy's positioning concepts from across multiple works (No B.S. Price Strategy, No B.S. Marketing, Magnetic Marketing) into a unified model. The five propositions are not presented as a single numbered framework in any one source.*
 
 1. **USP (Unique Selling Proposition):** Why choose you vs. competitors?
 2. **UVP (Unique Value Proposition):** Why choose you regardless of price? Make price a non-issue through benefit bundling.
@@ -99,6 +101,8 @@ Every claim must be substantiated with a reason. The "because" is not optional.
 **Niche Naming:** Rebrand generic services with specific, audience-focused names. "Back-to-Work Treatment Program" vs. "chiropractic adjustment" -- specificity creates a pricing premium.
 
 ## GECC Sales Letter Structure
+
+*Note: "GECC" is a teaching shorthand derived from Kennedy's sales letter principles. Kennedy teaches these elements as the core structure of effective sales letters but does not use this specific acronym.*
 
 ### Grab (Attention)
 - Headline formula: state the problem plus your solution

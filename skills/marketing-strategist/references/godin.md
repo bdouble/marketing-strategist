@@ -37,7 +37,7 @@ The privilege (not right) of delivering anticipated, personal, and relevant mess
 1. **Situational:** Contact initiated by customer. Transactional, context-specific.
 2. **Brand Trust:** Prospect permits continued supply based on established trust.
 3. **Personal Relationship:** Permission from personal relationship with someone in the organization.
-4. **Purchase on Approval:** Consumer confirms purchases based on previous engagement.
+4. **Points:** Consumer engages through loyalty programs, reward systems, or accumulated credits that incentivize continued interaction.
 5. **Intravenous:** Highest form. Marketer makes decisions on behalf of consumer without prior consent each time (subscriptions, auto-replenishment).
 
 ### Five-Step Permission Marketing Process

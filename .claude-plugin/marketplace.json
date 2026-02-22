@@ -1,0 +1,25 @@
+{
+  "name": "bdouble-marketing",
+  "owner": {
+    "name": "Brian Benitez"
+  },
+  "metadata": {
+    "description": "Marketing strategy plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "marketing-strategist",
+      "source": ".",
+      "description": "Marketing content engine combining frameworks from Hormozi, GaryVee, Brunson, Kennedy, Schwartz, Godin, and Deiss. Produces ready-to-post content, complete offer stacks, funnel architectures, campaign plans, and copy reviews.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brian Benitez"
+      },
+      "category": "marketing",
+      "tags": ["marketing", "copywriting", "funnels", "offers", "content-strategy", "direct-response"],
+      "license": "MIT",
+      "homepage": "https://github.com/bdouble/marketing-strategist",
+      "repository": "https://github.com/bdouble/marketing-strategist"
+    }
+  ]
+}
